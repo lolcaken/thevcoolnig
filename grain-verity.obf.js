@@ -1,5 +1,5 @@
 /*
- * copy all this (ctrl + a and ctrl + c) just copy all this and also add then goto ep right click inspect, console and paste it
+ * copy all this (ctrl + a and ctrl + c) just copy all this and also add then goto education perfect right click inspect, console and paste it
  *
  * if you did not expect this file, you did not get it from the author. close it before satan comes and dissect or wtv your organs haha
  *
